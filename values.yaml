@@ -1,0 +1,3 @@
+---
+# nginxPort - NodePort at nginx deployment
+nginxPort: 30800
